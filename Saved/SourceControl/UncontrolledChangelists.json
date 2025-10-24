@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/AI/guy.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/AI/BP_thief.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/AI/sheep_anim.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/AI/sheep.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/AI/sheep_brain.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/Fab/Wooden_House_3D_Asset/realistic_wooden_cottage_garden_house_3d_model/StaticMeshes/realistic_wooden_cottage_garden_house_3d_model.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/SO/0NGRMH4WKQC14L30280917.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/KG/ETKAO35ANVW90XFH3J8GJ2.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/W9/ZAAGYIUQZ2W6WEO3HPXAX7.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XU/RW3P9HUUCOCG5TL3TPG6XF.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/7A/C0UVMH95QVQO1KMTVK7MSB.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/8U/VKFLMM0CV8ZCC0P3TQGTTM.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/M3/6T1XG4EDG4ZEE1U9HMYL4C.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/Z2/ZTT8CZHCEL2G5HUD460S74.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/SR/0XT4VBVMATGUIUJUOQW5TQ.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/34/JD4TPFVSN8K0G5WQ1SZJ1N.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/0K/L5QBU4396WW9XXM39KUVYU.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/SC/ODJP4PR39Q7ZYKGTDMJ246.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/AI/thief_brain.uasset",
+				"C:/Users/student/Documents/GitHub/HomeWork_1/Content/Characters/guy/Running__2_.uasset"
+			]
+		}
+	]
+}
